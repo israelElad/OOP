@@ -1,4 +1,4 @@
-# OOP-Arkanoid-game
+# OOP-Arkanoid-game 
 First year second semester- "Object-oriented programming" course: Java
 
 The familiar Arkanoid (Brick Breaker) game implemented in Java, using OOP concepts such as design patterns (Factory, Observer/Listener), polymorphism & interfaces, inheritance, and more.
